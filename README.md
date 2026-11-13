@@ -281,6 +281,4 @@ YOLO 图片 + YOLO 框标签
 - [`post_process.py`](D:/MobileNetV4/multitask/post_process.py)：后处理
 - [`pipeline_infer.py`](D:/MobileNetV4/multitask/pipeline_infer.py)：端到端推理
 
-## License
 
-本项目中的自定义代码请根据实际发布需求补充许可证。项目同时依赖本地 Ultralytics YOLO 和 DeepLabV3+ 代码，发布到 GitHub 前请分别核对并保留对应的许可证与版权声明。
